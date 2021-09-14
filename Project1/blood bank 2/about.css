@@ -1,0 +1,27 @@
+ .size{
+    padding: 80px 0px;
+}
+img{
+    width: 300px;
+    height: 300px;
+}
+a{
+    margin-top: 0;
+}
+h1{
+    color: gray;
+}
+h2{
+    color: #e74c3c;
+}
+p{
+    font-size: 18px;
+}
+.right{
+    float: right;
+}
+.size{
+    min-height: 0px;
+    padding: 60px 0 40px 0;
+    
+}
