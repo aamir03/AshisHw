@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: cursive;
+}
+.header{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background: linear-gradient(rgba(0,0, 0, 0.2),rgba(0, 0 ,0 ,0.2)),url("images/header.png");
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #fff;
+}
